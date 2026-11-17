@@ -2,8 +2,8 @@
 class Pgard < Formula
   desc "Local security checks for GitHub projects you are authorized to scan"
   homepage "https://github.com/JadenMeister/pgard"
-  url "https://registry.npmjs.org/pgard/-/pgard-0.2.0.tgz"
-  sha256 "399f8f60fd75da8ddd57ee7cd20f5426da0f117d1d71cb26e785058ee2bddda4"
+  url "https://registry.npmjs.org/pgard/-/pgard-0.3.0.tgz"
+  sha256 "e0a33ad2e0baa18fb5cc6cce883645a07ee349b02dc91048046b5c6bce3b5674"
   license "MIT"
 
   depends_on "node"
